@@ -61,13 +61,13 @@ body {
 /* Header
 -----------------------------------------------------------------------------*/
 .header {
-	height: 80px;
+	height: 70px;
 	background: #7898ff;
 	font-size: 42px;
 	color: rgba(256,256,256,1.0);
 	font-family: sans-serif;
 	
-	padding-top: 30px;
+	padding-top: 40px;
 }
 
 
@@ -84,7 +84,7 @@ body {
     color: rgba(0,0,0,.8);
     /*background: #e8eaf3;*/
 
-    line-height: 1.58;
+    line-height: 1.68;
 }
 
 p{
